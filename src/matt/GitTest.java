@@ -7,7 +7,8 @@ public class GitTest {
 	public static void main(String[] args){
 		
 		System.out.println("GitHub HelloWorld2!");
-		System.out.println("GitHub HelloWorld3!");
+		
+		System.out.println("GitHub HelloWorld4!");
 	}
 	
 }
