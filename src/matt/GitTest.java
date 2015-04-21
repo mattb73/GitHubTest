@@ -11,6 +11,7 @@ public class GitTest {
 		System.out.println("GitHub HelloWorld4!");
 		
 		System.out.println("GitHub HelloWorld5!");
+		System.out.println("GitHub HelloWorld7!");
 	}
 	
 }
